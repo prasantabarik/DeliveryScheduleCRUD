@@ -1,0 +1,86 @@
+[INFO ] 2020-11-11 19:42:40.293 [main] ServiceKotlinTemplateApplicationKt - Starting ServiceKotlinTemplateApplicationKt on DESKTOP-ATSEQH3 with PID 17560 (E:\DelSchCrud\target\classes started by kprab in E:\DelSchCrud)
+[INFO ] 2020-11-11 19:42:40.461 [main] ServiceKotlinTemplateApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-11 19:43:22.441 [main] ServiceKotlinTemplateApplicationKt - Started ServiceKotlinTemplateApplicationKt in 46.019 seconds (JVM running for 60.292)
+[INFO ] 2020-11-11 22:42:01.770 [main] ServiceKotlinTemplateApplicationKt - Starting ServiceKotlinTemplateApplicationKt on DESKTOP-ATSEQH3 with PID 21116 (E:\DelSchCrud\target\classes started by kprab in E:\DelSchCrud)
+[INFO ] 2020-11-11 22:42:01.852 [main] ServiceKotlinTemplateApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-11 22:42:26.519 [main] ServiceKotlinTemplateApplicationKt - Started ServiceKotlinTemplateApplicationKt in 26.167 seconds (JVM running for 33.392)
+[INFO ] 2020-11-11 22:43:59.141 [main] ServiceKotlinTemplateApplicationKt - Starting ServiceKotlinTemplateApplicationKt on DESKTOP-ATSEQH3 with PID 14256 (E:\DelSchCrud\target\classes started by kprab in E:\DelSchCrud)
+[INFO ] 2020-11-11 22:43:59.170 [main] ServiceKotlinTemplateApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-11 22:44:07.040 [main] ServiceKotlinTemplateApplicationKt - Started ServiceKotlinTemplateApplicationKt in 8.666 seconds (JVM running for 14.725)
+[INFO ] 2020-11-11 22:53:18.211 [http-nio-8097-exec-2] Controller - Get All
+[ERROR] 2020-11-11 22:53:21.795 [http-nio-8097-exec-2] ExceptionHandlers - [Ljava.lang.StackTraceElement;@62fd0e4e
+[INFO ] 2020-11-11 22:53:37.713 [http-nio-8097-exec-4] Controller - Get All
+[ERROR] 2020-11-11 22:53:38.181 [http-nio-8097-exec-4] ExceptionHandlers - [Ljava.lang.StackTraceElement;@2efa105f
+[INFO ] 2020-11-11 22:54:14.002 [http-nio-8097-exec-6] Controller - Get All
+[ERROR] 2020-11-11 22:54:14.330 [http-nio-8097-exec-6] ExceptionHandlers - [Ljava.lang.StackTraceElement;@28aefaae
+[INFO ] 2020-11-11 22:55:13.208 [main] ServiceKotlinTemplateApplicationKt - Starting ServiceKotlinTemplateApplicationKt on DESKTOP-ATSEQH3 with PID 9584 (E:\DelSchCrud\target\classes started by kprab in E:\DelSchCrud)
+[INFO ] 2020-11-11 22:55:13.251 [main] ServiceKotlinTemplateApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-11 22:55:19.473 [main] ServiceKotlinTemplateApplicationKt - Started ServiceKotlinTemplateApplicationKt in 7.122 seconds (JVM running for 10.259)
+[INFO ] 2020-11-11 22:55:33.577 [http-nio-8097-exec-2] Controller - Get All
+[INFO ] 2020-11-11 22:56:01.505 [http-nio-8097-exec-3] Controller - Get All
+[INFO ] 2020-11-11 22:56:12.081 [http-nio-8097-exec-4] Controller - Get All
+[INFO ] 2020-11-11 23:08:44.928 [main] ServiceKotlinTemplateApplicationKt - Starting ServiceKotlinTemplateApplicationKt on DESKTOP-ATSEQH3 with PID 22212 (E:\DelSchCrud\target\classes started by kprab in E:\DelSchCrud)
+[INFO ] 2020-11-11 23:08:44.965 [main] ServiceKotlinTemplateApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-11 23:08:50.930 [main] ServiceKotlinTemplateApplicationKt - Started ServiceKotlinTemplateApplicationKt in 6.852 seconds (JVM running for 9.892)
+[INFO ] 2020-11-11 23:09:20.071 [http-nio-8097-exec-1] Controller - Get All
+[INFO ] 2020-11-11 23:15:00.087 [main] ServiceKotlinTemplateApplicationKt - Starting ServiceKotlinTemplateApplicationKt on DESKTOP-ATSEQH3 with PID 18260 (E:\DelSchCrud\target\classes started by kprab in E:\DelSchCrud)
+[INFO ] 2020-11-11 23:15:00.112 [main] ServiceKotlinTemplateApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-11 23:15:05.318 [main] ServiceKotlinTemplateApplicationKt - Started ServiceKotlinTemplateApplicationKt in 5.983 seconds (JVM running for 8.352)
+[INFO ] 2020-11-11 23:16:30.859 [http-nio-8097-exec-1] Controller - Get All
+[INFO ] 2020-11-11 23:17:14.459 [http-nio-8097-exec-3] Controller - Get All
+[INFO ] 2020-11-11 23:17:23.422 [http-nio-8097-exec-4] Controller - Get All
+[INFO ] 2020-11-11 23:17:59.000 [http-nio-8097-exec-5] Controller - Get All
+[INFO ] 2020-11-11 23:18:35.254 [http-nio-8097-exec-6] Controller - Get All
+[INFO ] 2020-11-11 23:19:06.705 [http-nio-8097-exec-7] Controller - Get All
+[ERROR] 2020-11-11 23:22:44.564 [http-nio-8097-exec-10] ExceptionHandlers - [Ljava.lang.StackTraceElement;@162a81d7
+[ERROR] 2020-11-11 23:22:53.019 [http-nio-8097-exec-1] ExceptionHandlers - [Ljava.lang.StackTraceElement;@4aa49f3d
+[ERROR] 2020-11-11 23:23:59.376 [http-nio-8097-exec-4] ExceptionHandlers - [Ljava.lang.StackTraceElement;@1b8d8360
+[INFO ] 2020-11-11 23:34:00.982 [main] ServiceKotlinTemplateApplicationKt - Starting ServiceKotlinTemplateApplicationKt on DESKTOP-ATSEQH3 with PID 2556 (E:\DelSchCrud\target\classes started by kprab in E:\DelSchCrud)
+[INFO ] 2020-11-11 23:34:01.027 [main] ServiceKotlinTemplateApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-11 23:34:08.257 [main] ServiceKotlinTemplateApplicationKt - Started ServiceKotlinTemplateApplicationKt in 8.349 seconds (JVM running for 11.72)
+[ERROR] 2020-11-11 23:34:22.424 [http-nio-8097-exec-1] ExceptionHandlers - [Ljava.lang.StackTraceElement;@48420084
+[ERROR] 2020-11-11 23:35:07.858 [http-nio-8097-exec-8] ExceptionHandlers - [Ljava.lang.StackTraceElement;@2e171ad4
+[ERROR] 2020-11-11 23:35:21.480 [http-nio-8097-exec-2] ExceptionHandlers - [Ljava.lang.StackTraceElement;@744274d4
+[ERROR] 2020-11-11 23:35:34.211 [http-nio-8097-exec-6] ExceptionHandlers - [Ljava.lang.StackTraceElement;@530b7fea
+[ERROR] 2020-11-11 23:35:44.695 [http-nio-8097-exec-10] ExceptionHandlers - [Ljava.lang.StackTraceElement;@2f09a81f
+[ERROR] 2020-11-11 23:36:05.965 [http-nio-8097-exec-1] ExceptionHandlers - [Ljava.lang.StackTraceElement;@47cac95c
+[ERROR] 2020-11-11 23:36:12.977 [http-nio-8097-exec-8] ExceptionHandlers - [Ljava.lang.StackTraceElement;@75034645
+[ERROR] 2020-11-11 23:36:23.239 [http-nio-8097-exec-2] ExceptionHandlers - [Ljava.lang.StackTraceElement;@7a85942c
+[ERROR] 2020-11-11 23:37:28.300 [http-nio-8097-exec-6] ExceptionHandlers - [Ljava.lang.StackTraceElement;@5dcc9bfb
+[ERROR] 2020-11-11 23:42:31.692 [http-nio-8097-exec-10] ExceptionHandlers - [Ljava.lang.StackTraceElement;@35136b79
+[ERROR] 2020-11-11 23:42:56.446 [http-nio-8097-exec-1] ExceptionHandlers - [Ljava.lang.StackTraceElement;@3546176d
+[ERROR] 2020-11-11 23:48:17.881 [http-nio-8097-exec-8] ExceptionHandlers - [Ljava.lang.StackTraceElement;@3c0929bd
+[INFO ] 2020-11-11 23:49:17.916 [main] ServiceKotlinTemplateApplicationKt - Starting ServiceKotlinTemplateApplicationKt on DESKTOP-ATSEQH3 with PID 23740 (E:\DelSchCrud\target\classes started by kprab in E:\DelSchCrud)
+[INFO ] 2020-11-11 23:49:17.961 [main] ServiceKotlinTemplateApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-11 23:49:25.319 [main] ServiceKotlinTemplateApplicationKt - Started ServiceKotlinTemplateApplicationKt in 8.143 seconds (JVM running for 11.07)
+[INFO ] 2020-11-11 23:50:03.658 [http-nio-8097-exec-3] Controller - Get All
+[INFO ] 2020-11-11 23:50:55.211 [http-nio-8097-exec-5] Controller - Get All
+[INFO ] 2020-11-11 23:51:14.761 [http-nio-8097-exec-6] Controller - Get All
+[INFO ] 2020-11-11 23:52:35.200 [http-nio-8097-exec-1] Controller - Get All
+[INFO ] 2020-11-11 23:53:02.367 [http-nio-8097-exec-3] Controller - Get All
+[INFO ] 2020-11-11 23:53:20.982 [http-nio-8097-exec-5] Controller - Get All
+[INFO ] 2020-11-11 23:53:47.408 [http-nio-8097-exec-6] Controller - Get All
+[INFO ] 2020-11-12 11:04:03.647 [main] ServiceKotlinTemplateApplicationKt - Starting ServiceKotlinTemplateApplicationKt on DESKTOP-ATSEQH3 with PID 2240 (E:\DelSchCrud\target\classes started by kprab in E:\DelSchCrud)
+[INFO ] 2020-11-12 11:04:03.773 [main] ServiceKotlinTemplateApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-12 11:04:15.039 [main] ServiceKotlinTemplateApplicationKt - Started ServiceKotlinTemplateApplicationKt in 12.481 seconds (JVM running for 20.309)
+[INFO ] 2020-11-12 11:04:24.690 [http-nio-8097-exec-2] Controller - Get All
+[ERROR] 2020-11-12 11:06:49.328 [http-nio-8097-exec-5] ExceptionHandlers - [Ljava.lang.StackTraceElement;@4c040e44
+[INFO ] 2020-11-12 11:07:23.775 [http-nio-8097-exec-8] Controller - Get All
+[INFO ] 2020-11-12 11:12:31.591 [main] ServiceKotlinTemplateApplicationKt - Starting ServiceKotlinTemplateApplicationKt on DESKTOP-ATSEQH3 with PID 19032 (E:\DelSchCrud\target\classes started by kprab in E:\DelSchCrud)
+[INFO ] 2020-11-12 11:12:31.641 [main] ServiceKotlinTemplateApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-12 11:12:38.759 [main] ServiceKotlinTemplateApplicationKt - Started ServiceKotlinTemplateApplicationKt in 8.079 seconds (JVM running for 10.896)
+[INFO ] 2020-11-12 11:13:29.417 [http-nio-8097-exec-3] Controller - Get All
+[ERROR] 2020-11-12 11:13:41.152 [http-nio-8097-exec-4] ExceptionHandlers - [Ljava.lang.StackTraceElement;@636a6175
+[INFO ] 2020-11-12 11:15:41.734 [main] ServiceKotlinTemplateApplicationKt - Starting ServiceKotlinTemplateApplicationKt on DESKTOP-ATSEQH3 with PID 20512 (E:\DelSchCrud\target\classes started by kprab in E:\DelSchCrud)
+[INFO ] 2020-11-12 11:15:41.764 [main] ServiceKotlinTemplateApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-12 11:15:47.614 [main] ServiceKotlinTemplateApplicationKt - Started ServiceKotlinTemplateApplicationKt in 6.587 seconds (JVM running for 9.288)
+[ERROR] 2020-11-12 11:15:52.136 [http-nio-8097-exec-2] ExceptionHandlers - [Ljava.lang.StackTraceElement;@11f1cc6a
+[ERROR] 2020-11-12 11:16:54.872 [http-nio-8097-exec-4] ExceptionHandlers - [Ljava.lang.StackTraceElement;@4be6927b
+[ERROR] 2020-11-12 11:17:15.716 [http-nio-8097-exec-6] ExceptionHandlers - [Ljava.lang.StackTraceElement;@661c94b5
+[INFO ] 2020-11-12 11:22:35.009 [main] ServiceKotlinTemplateApplicationKt - Starting ServiceKotlinTemplateApplicationKt on DESKTOP-ATSEQH3 with PID 13836 (E:\DelSchCrud\target\classes started by kprab in E:\DelSchCrud)
+[INFO ] 2020-11-12 11:22:35.040 [main] ServiceKotlinTemplateApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-12 11:22:40.973 [main] ServiceKotlinTemplateApplicationKt - Started ServiceKotlinTemplateApplicationKt in 6.724 seconds (JVM running for 9.563)
+[ERROR] 2020-11-12 11:22:51.974 [http-nio-8097-exec-10] ExceptionHandlers - [Ljava.lang.StackTraceElement;@4913b67a
+[INFO ] 2020-11-12 18:52:53.198 [main] ServiceKotlinTemplateApplicationKt - Starting ServiceKotlinTemplateApplicationKt on DESKTOP-ATSEQH3 with PID 22576 (E:\DelSchCrud\target\classes started by kprab in E:\DelSchCrud)
+[INFO ] 2020-11-12 18:52:53.331 [main] ServiceKotlinTemplateApplicationKt - No active profile set, falling back to default profiles: default
+[INFO ] 2020-11-12 18:53:05.306 [main] ServiceKotlinTemplateApplicationKt - Started ServiceKotlinTemplateApplicationKt in 13.562 seconds (JVM running for 23.587)
