@@ -1,0 +1,19 @@
+name: delschcrud
+namespace: ""
+cdPipelineName: ""
+cdPipelineStageName: ""
+dnsWildcard: 59ae6b648ca3437aae3a.westeurope.aksapp.io
+framework: java11
+
+database:
+  required: false
+
+
+ingress:
+  required: true
+  site: delschcrud
+  path: /api/v1/deliveryschedule-crud-service
+
+image:
+  name: delschcrud
+  version: latest
