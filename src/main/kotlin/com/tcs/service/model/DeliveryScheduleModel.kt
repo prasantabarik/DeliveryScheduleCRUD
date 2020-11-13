@@ -8,7 +8,7 @@ import org.springframework.data.mongodb.core.mapping.Document
  */
 
 
-@Document(collection = "delivery-schedule-new")
+@Document(collection = "delivery-schedule")
 data class DeliveryScheduleModel(
         @Id
         var id: String? = null,
