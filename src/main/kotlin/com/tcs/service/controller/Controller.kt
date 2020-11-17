@@ -133,7 +133,7 @@ class Controller(private val service: Service,
         ApiResponse(responseCode = "400", description = BAD_REQUEST, content = [Content()]),
         ApiResponse(responseCode = "404", description = NO_DATA_FOUND, content = [Content()])]
     )
-    @RequestMapping(value = [POST_PUT_DELETE_URI], method = [RequestMethod.DELETE], produces = [MediaType.APPLICATION_JSON_VALUE])
+    @RequestMapping(value = [GET_BY_ID_URI], method = [RequestMethod.DELETE], produces = [MediaType.APPLICATION_JSON_VALUE])
     fun delete(@PathVariable("id") id: String): ResponseEntity<ServiceResponse> {
        // println(deliveryStreamNumber)
         service.delete(id)
