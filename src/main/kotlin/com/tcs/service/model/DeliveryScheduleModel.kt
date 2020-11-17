@@ -12,7 +12,6 @@ import org.springframework.data.mongodb.core.mapping.Document
 data class DeliveryScheduleModel(
         @Id
         var id: String? = null,
-        var deliveryScheduleId: Long?,
         var storeNumber: Long?,
         var deliveryStreamNumber: Int?,
         var deliveryStreamName: String?,
@@ -21,7 +20,7 @@ data class DeliveryScheduleModel(
         var startDate: String?,
         var endDate: String?,
         var notes: String?,
-        var timeTableList: List<TimeTableModel>?
+        var timeTableList: List<Timetable>?
 
 
 )

@@ -1,8 +1,8 @@
 package com.tcs.service.model
 
-data class TimeTableModel(
+data class Timetable(
         var  orderDay: String?,
-        var  orderTime : String? ,
+        var  orderTime : String?,
         var  deliveryDay: String?,
         var  deliveryTime: String?,
         var  fillDay: String?,
