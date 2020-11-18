@@ -20,7 +20,11 @@ data class DeliveryScheduleModel(
         var startDate: String?,
         var endDate: String?,
         var notes: String?,
-        var timeTableList: List<Timetable>?
+        var timeTable: List<Timetable>?,
+        var createdBy : String?,
+        var creationDateTime: String?,
+        var updatedBy : String?,
+        var updateDateTime : String?
 
 
 )
