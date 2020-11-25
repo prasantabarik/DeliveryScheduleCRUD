@@ -42,11 +42,7 @@ class Controller(private val service: Service,
 
     val logger = logger()
 
-    /**
-     * TelemetryClient is responsible for sending events to App Insights
-     */
-    @Autowired
-    lateinit var telemetryClient: TelemetryClient
+
 
     /**
      * This is a sample of the GET Endpoint
