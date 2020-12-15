@@ -5,7 +5,7 @@ metadata:
   namespace: edppublic-delschcrud-dev
   annotations:
     fluxcd.io/automated: "true"
-    filter.fluxcd.io/chart-image: glob:edppublic-*
+    filter.fluxcd.io/chart-image: glob:1.0.0-*
 spec:
   releaseName: delschcrud
   chart:
