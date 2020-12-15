@@ -1,0 +1,19 @@
+apiVersion: helm.fluxcd.io/v1
+kind: HelmRelease
+metadata:
+  name: delschcrud
+  namespace: edppublic-delschcrud-dev
+  annotations:
+    fluxcd.io/automated: "true"
+    filter.fluxcd.io/chart-image: glob:edppublic-*
+spec:
+  releaseName: delschcrud
+  chart:
+    git: git@github.com:prasantabarik/DeliveryScheduleCRUD
+    path: deploy-templates
+    ref: master
+  values:
+    name: delschcrud
+    group: delschcrud
+    namespace: edppublic-delschcrud-dev
+      
