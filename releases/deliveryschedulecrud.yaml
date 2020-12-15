@@ -18,6 +18,6 @@ spec:
     namespace: edppublic-delschcrud-dev
     image:
       name: weeus01devakscn01.azurecr.io/edppublic/delschcrud-master
-      version: 1.0.0-SNAPSHOT.4
+      version: 1.0.0-SNAPSHOT.3
     replicaCount: 1
       
