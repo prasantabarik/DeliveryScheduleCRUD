@@ -16,6 +16,11 @@ spec:
         metadata:
             labels:
                 app: {{ .Values.name }}
+            annotations:
+                dapr.io/app-id: delschcrud
+                dapr.io/app-port: "8080"
+                dapr.io/enabled: "true"
+                dapr.io/config: appconfig
         spec:
 {{- if .Values.database.required }}
             initContainers:
