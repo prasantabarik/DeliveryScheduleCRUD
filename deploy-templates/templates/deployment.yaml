@@ -20,7 +20,7 @@ spec:
                 dapr.io/app-id: delschcrud
                 dapr.io/app-port: "8080"
                 dapr.io/enabled: "true"
-                dapr.io/config: appconfig
+                dapr.io/config: delschcrud
         spec:
 {{- if .Values.database.required }}
             initContainers:
